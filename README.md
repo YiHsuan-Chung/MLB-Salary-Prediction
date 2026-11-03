@@ -20,3 +20,6 @@ This project was part of a university research project. My main responsibility w
 
 ## Tools
 Python, pandas, scikit-learn, XGBoost, Matplotlib
+
+## Data Source
+The dataset was collected from FanGraphs and includes MLB hitter statistics and salary information from 2015 to 2024. A total of 3,175 player-year records were used in this project.
